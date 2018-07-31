@@ -1,0 +1,1 @@
+gcc mainj02.c ../lib/ft_putchar.c ../j02/ex00/ft_print_alphabet.c ../j02/ex01/ft_print_reverse_alphabet.c ../j02/ex02/ft_print_numbers.c ../j02/ex03/ft_is_negative.c ../j02/ex04/ft_print_comb.c ../j02/ex05/ft_print_comb2.c ../j02/ex06/ft_putnbr.c
