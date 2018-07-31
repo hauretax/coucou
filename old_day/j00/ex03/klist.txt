@@ -1,0 +1,5 @@
+Credentials cache: API:7A78BF7B-145A-4060-90D7-CA4B72FABAE9
+        Principal: hutricot@42.FR
+
+  Issued                Expires               Principal
+Jul  2 11:26:50 2018  Jul  9 11:24:14 2018  krbtgt/42.FR@42.FR

@@ -1,0 +1,5 @@
+nl = 20
+nc = 20
+density = 1
+
+perl map-generator 
